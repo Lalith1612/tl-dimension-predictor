@@ -1,0 +1,3 @@
+*.pth
+__pycache__/
+pix3d-samples/
